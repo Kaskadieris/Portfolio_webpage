@@ -43,13 +43,10 @@ a:hover {
 #welcome-section {
   display: flex;
   align-items: center;
-  margin-top: 7em;
   width: 100%;
   height: 100vh;
   background-color: #d2a813;
   background-image: linear-gradient(315deg, #d2a813 0%, #000000 74%);
-  margin-bottom: 7em;
-  border-bottom: 4px solid black;
 }
 
 #welcome-text > h1 {
