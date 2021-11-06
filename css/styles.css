@@ -221,8 +221,8 @@ a:hover {
     margin: auto;
     justify-self: center;
     align-self: center;
-    width: 350px;
-    height: 350px;
+    width: 300px;
+    height: 300px;
     justify-self: stretch;
     grid-column: 1/3;
   }
