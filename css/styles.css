@@ -195,8 +195,8 @@ a:hover {
     margin-top: 15em;
     padding-top: 8em;
     padding-bottom: 10em;
-    margin-right: 0em;
-    margin-left: 0%;
+    margin-right: 0px;
+    margin-left: 0px;
     width: 100%;
     height: 30vh;
   }
@@ -251,8 +251,8 @@ a:hover {
   }
 
   #contact-me {
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: 0px;
+    margin-right: 0px;
     padding: 0em;
   }
 
