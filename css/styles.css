@@ -234,10 +234,16 @@ a:hover {
   }
 
   .project-description {
+    padding: none;
+    width: 100%;
+    margin: none;
     position: absolute;
   }
 
   #project-text {
+    padding: none;
+    width: 100%;
+    margin: none;
     position: relative;
     display: none;
   }
