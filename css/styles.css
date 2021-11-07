@@ -253,7 +253,8 @@ a:hover {
   #contact-me {
     margin-left: 0px;
     margin-right: 0px;
-    padding: 0em;
+    padding: 0px;
+    padding-bottom: 3em;
   }
 
   #contact-me > h1 {
