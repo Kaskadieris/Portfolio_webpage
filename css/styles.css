@@ -269,11 +269,15 @@ a:hover {
     color: white;
     font-weight: 900;
     font-size: 1rem;
+    margin-right: 0px;
+    margin-left: 0px;
   }
 
   #contact-me > p {
     color: white;
     font-weight: 500;
     font-size: 1rem;
+    margin-right: 0px;
+    margin-left: 0px;
   }
 }
