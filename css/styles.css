@@ -79,6 +79,7 @@ a:hover {
   grid-template-columns: 1fr 1fr;
   row-gap: 2em;
   padding: 3em;
+  margin-top: 15em;
 }
 
 #projects > h1 {
@@ -236,18 +237,17 @@ a:hover {
   }
 
   .project-description {
-    padding: none;
+    padding: 0px;
     width: 100%;
-    margin: none;
+    margin: 0px;
     position: absolute;
   }
 
   #project-text {
-    padding: none;
+    padding: 0px;
     width: 100%;
-    margin: none;
+    margin: 0px;
     position: relative;
-    display: none;
   }
 
   #contact-me {
